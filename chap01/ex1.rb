@@ -1,0 +1,10 @@
+#puts "Hello World!"
+#puts "Hello Again"
+#puts "I loke typing this."
+#puts "This is fun."
+#puts "Yay! Printing."
+#puts "I'd much rather you 'not'."
+#puts 'I "said" do not touch this.'
+#study drill 1
+puts "another line"
+#hash comments out
